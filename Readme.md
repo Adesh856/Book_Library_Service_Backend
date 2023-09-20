@@ -41,7 +41,7 @@ The Book Library Service is an API that allows you to manage and interact with a
 3. Change into the project directory:
 
    ```bash
-   cd book-library-service
+   cd Book_Library_Service_Backend
    ```
 
 4. Install the project dependencies:
@@ -59,13 +59,15 @@ The Book Library Service is an API that allows you to manage and interact with a
 The service should now be running locally on port 5000 by default. You can access the API endpoints as described below.
 
 ## API Endpoints
+https://book-library-service.onrender.com  
+Add endpoints end of this above url if you want to work on it or check it.
 
 The service provides the following API endpoints:
 
 - `POST /book/add`: Add a new book to the catalog.
 - `GET /book`: Retrieve a list of all books in the catalog.
 - `PUT /book/edit/:_id`: Update the data of an existing book.
-- `DELETE /bookw/delete/:_id`: Delete a book from the catalog by its ID.
+- `DELETE /book/delete/:_id`: Delete a book from the catalog by its ID.
 
 ## Deployment
 
