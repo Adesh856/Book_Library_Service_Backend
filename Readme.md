@@ -60,7 +60,7 @@ The service should now be running locally on port 5000 by default. You can acces
 
 ## API Endpoints
 https://book-library-service.onrender.com  
-Add endpoints end of this above url if you want to work on it or check it.
+Add endpoints to the end of this above url if you want to work on it or for testing it.
 
 The service provides the following API endpoints:
 
